@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **CSS Flexbox and Grid!**
 
-- 📫 How to reach me **kentayeung@gmail.com**
-
 - ⚡ Fun fact **I didn't expect to like theorycrafting this much.**
 
 <h3 align="left">Connect with me:</h3>
