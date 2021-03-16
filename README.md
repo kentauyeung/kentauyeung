@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **EVERYTHING (React.js)**
 
-- 👨‍💻 All of my projects are available at [kentauyeung.netlify.app](kentauyeung.netlify.app)
-
 - 💬 Ask me about **CSS Flexbox and Grid!**
 
 - 📫 How to reach me **kentayeung@gmail.com**
